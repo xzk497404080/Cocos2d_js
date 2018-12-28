@@ -1,0 +1,20 @@
+<Solution>
+  <PropertyGroup Name="Cocos" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="NewFolder" />
+        <Image Name="A-10A Thunderbolt II.png" />
+        <Image Name="bg.png" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="HelloWorld1.png" />
+        <Image Name="rachael-okula-starrysky3.jpg" />
+        <Project Name="StartBGScene.csd" Type="Scene" />
+        <Image Name="startgame.png" />
+        <Project Name="StartTouchScene.csd" Type="Scene" />
+        <Image Name="true.jpg" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
